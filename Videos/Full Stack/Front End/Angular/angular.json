@@ -1,0 +1,47 @@
+{
+    "titlePage": "Angular",
+    "table": [
+        {
+            "name": "Angular 18 Full Course | Angular 18 Tutorial With Project",
+            "author": "LEARNING PARTNER",
+            "durationOrNumberOfParts": "3:43:27",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=QjaNv7s1gW0"
+        },
+        {
+            "name": "Angular 18 Upgrade Guide: Everything You Need to Know",
+            "author": "Nihira Techiees",
+            "durationOrNumberOfParts": "14:53",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=OALcxBzNEUE"
+        },
+        {
+            "name": "Angular 18 Tutorial for Beginners | Complete Full Course 2024",
+            "author": "Nihira Techiees",
+            "durationOrNumberOfParts": "4:50:26",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=rtYzt5iWjGs"
+        },
+        {
+            "name": "Learn Angular A-Z: Complete Tutorial for Beginners",
+            "author": "Envato Tuts+",
+            "durationOrNumberOfParts": "4:21:32",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=JWhRMyyF7nc"
+        },
+        {
+            "name": "What's new in Angular 19.2",
+            "author": "Angular",
+            "durationOrNumberOfParts": "2:02",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=sGSKSh5yNIE"
+        },
+        {
+            "name": "What's new in Angular v17",
+            "author": "Angular",
+            "durationOrNumberOfParts": "5:07",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=36Hcx7kRYDg"
+        }
+    ]
+}
