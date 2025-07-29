@@ -1,0 +1,19 @@
+{
+    "titlePage": "Material UI - MUI",
+    "table": [
+        {
+            "name": "Material UI Crash Course: Intro to React + Material UI V5 (2022 Edition)",
+            "author": "Anthony Sistilli",
+            "durationOrNumberOfParts": "30:21",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=_W3uuxDnySQ"
+        },
+        {
+            "name": "MUI5 (Material UI) Crash Course",
+            "author": "Laiture Academy",
+            "durationOrNumberOfParts": "1:28:34",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=o1chMISeTC0"
+        }
+    ]
+}

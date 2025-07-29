@@ -27,6 +27,15 @@
                 <a href="https://www.youtube.com/watch?v=E1cklb4aeXA">https://www.youtube.com/watch?v=E1cklb4aeXA</a>   
             </td>
             <td style="text-align: right;"></td>
+        </tr><tr>
+            <td style="text-align: right;">All The JavaScript You Need To Know For React</td>
+            <td style="text-align: right;">PedroTech</td>
+            <td style="text-align: right;">27:59</td>
+            <td style="text-align: right;">English</td>
+            <td style="text-align: right;">
+                <a href="https://www.youtube.com/watch?v=m55PTVUrlnA">https://www.youtube.com/watch?v=m55PTVUrlnA</a>   
+            </td>
+            <td style="text-align: right;"></td>
         </tr>
     <table>
 </div>
