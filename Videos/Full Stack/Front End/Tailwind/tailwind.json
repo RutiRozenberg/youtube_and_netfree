@@ -1,0 +1,47 @@
+{
+    "titlePage": "Tailwind",
+    "table": [
+        {
+            "name": "Tailwind CSS Tutorial for Beginners (2024) – What YOU need to know",
+            "author": "Lukas | Web Development & Design",
+            "durationOrNumberOfParts": "22:09",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=DenUCuq4G04"
+        },
+        {
+            "name": "Tailwind Crash Course | Project From Scratch",
+            "author": "Traversy Media",
+            "durationOrNumberOfParts": "1:35:38",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=dFgzHOX84xQ"
+        },
+        {
+            "name": "Learn Tailwind CSS – Course for Beginners",
+            "author": "freeCodeCamp.org",
+            "durationOrNumberOfParts": "4:12:17",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=ft30zcMlFao"
+        },
+        {
+            "name": "Exploring the Tailwind CSS v4.0 Beta with Sam Selikoff",
+            "author": "Adam Wathan",
+            "durationOrNumberOfParts": "1:18:18",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=vhcntygYBsI"
+        },
+        {
+            "name": "Tailwind v4 Is FINALLY Out – Here’s What’s New (and how to migrate!)",
+            "author": "Better Stack",
+            "durationOrNumberOfParts": "9:27",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=ud913ekwAOQ"
+        },
+        {
+            "name": "Build a Website with Tailwind CSS | Project Tutorial",
+            "author": "Dave Gray",
+            "durationOrNumberOfParts": "46:55",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?app=desktop&v=VCpfd1NgBD8"
+        }
+    ]
+}
