@@ -8,6 +8,27 @@
             "language": "עברית",
             "link": "https://www.youtube.com/watch?v=FTDQj84HhCY&list=PLKoG9zrxvudOKmkyVjc_m3_u5F8ysCwPW",
             "notes": "החלק של עיצוב ב Tailwind CSS חסום "
+        },
+        {
+            "name": "Next.js Authentication Master Class - No Libraries (Email/Password, OAuth2, etc.)",
+            "author": "Web Dev Simplified",
+            "durationOrNumberOfParts": "1:59:39",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=yoiBv0K6_1U"
+        },
+        {
+            "name": "Learn Next.js 15 in 1 hour - Beginner Tutorial",
+            "author": "Codevolution",
+            "durationOrNumberOfParts": "59:24",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=_EgI9WH8q1A"
+        },
+        {
+            "name": "Next.js 15 Breakdown (Everything You Need To Know)",
+            "author": "Web Dev Simplified",
+            "durationOrNumberOfParts": "18:09",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=fqabW3WRUbw"
         }
     ]
 }
