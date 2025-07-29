@@ -1,0 +1,19 @@
+{
+    "titlePage": "MySQL",
+    "table": [
+        {
+            "name": "MySQL Database - Full Course",
+            "author": "FreeCodeCamp",
+            "durationOrNumberOfParts": "1:59:30",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=ER8oKX5myE0"
+        },
+        {
+            "name": "MySQL Full Course for free 🐬",
+            "author": "Bro Code",
+            "durationOrNumberOfParts": "3:00:00",
+            "language": "English",
+            "link": "https://www.youtube.com/watch?v=5OdVJbNCSso"
+        }
+    ]
+}
