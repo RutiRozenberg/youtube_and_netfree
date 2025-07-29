@@ -7,6 +7,13 @@
             "durationOrNumberOfParts": "20:52",
             "language": "עברית",
             "link": "https://www.youtube.com/watch?app=desktop&v=31u9DtccOEc"
+        },
+        {
+            "name": "קורס ג'אווה סקריפט למתקדמים",
+            "author": "דוקטור קוד",
+            "durationOrNumberOfParts": "19 חלקים",
+            "language": "עברית",
+            "link": "חלק 4 בנושא async await חסום."
         }
     ]
 }

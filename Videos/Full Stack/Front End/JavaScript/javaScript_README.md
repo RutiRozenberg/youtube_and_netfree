@@ -18,6 +18,15 @@
                 <a href="https://www.youtube.com/watch?app=desktop&v=31u9DtccOEc">https://www.youtube.com/watch?app=desktop&v=31u9DtccOEc</a>   
             </td>
             <td style="text-align: right;"></td>
+        </tr><tr>
+            <td style="text-align: right;">קורס ג'אווה סקריפט למתקדמים</td>
+            <td style="text-align: right;">דוקטור קוד</td>
+            <td style="text-align: right;">19 חלקים</td>
+            <td style="text-align: right;">עברית</td>
+            <td style="text-align: right;">
+                <a href="חלק 4 בנושא async await חסום.">חלק 4 בנושא async await חסום.</a>   
+            </td>
+            <td style="text-align: right;"></td>
         </tr>
     <table>
 </div>
