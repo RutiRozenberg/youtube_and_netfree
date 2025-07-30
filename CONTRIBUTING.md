@@ -8,7 +8,7 @@
 
 ## 🧰 מה צריך כדי להתחיל?
 
-מחשב עם Node.js מותקן
+מחשב עם Node.js או Python.
 
 חשבון GitHub
 
@@ -48,7 +48,10 @@
 
 ### 5. הוסיפו את הקישור
 #### **🟢 להוספת קישור לקטגוריה קיימת:**
-הריצו את הסקריפט: `addLinkData.js`
+הריצו את הסקריפט: 
+להרצה עם JavaScipt יש להריץ  - `addLinkData.js`
+להרצה עם python יש להריץ  - `add_link_data.py` 
+
 שלחו את הערכים הבאים (בסדר הזה):
 
 <ol dir="rtl">
@@ -61,15 +64,18 @@
     <li>הערות (אם יש)</li>
 </ol>
 
-דוגמא להרצה:
+דוגמא להרצה עם JavaScript:
 
 ```
-node .\Scripts\<JavaScript or Python>\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
+node .\Scripts\JavaScript\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
 ```
 
 <h4 dir="rtl"> 🆕 להוספת קטגוריה חדשה עם קישור:</h4>
 
-הריצו את הסקריפט: `createJsonData.js`
+הריצו את הסקריפט: 
+להרצה עם JavaScipt יש להריץ  - `createJsonData.js`
+ללהרצה עם python יש להריץ  - `create_json_data.py` 
+
 שלחו את הערכים הבאים: (בסדר הזה)
 
 <ol dir="rtl">
@@ -83,26 +89,29 @@ node .\Scripts\<JavaScript or Python>\addLinkData.js '.\Vidoes\<category>\...\<t
     <li>הערות (אם יש)</li>
 </ol>
 
-דוגמא להרצה:
+דוגמא להרצה עם JavaScript:
 
 ```
-node .\Scripts\<JavaScript or Python>\createJsonData.js '.\Vidoes\<category>\...\<topic>.json' '<topic>' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
+node .\Scripts\JavaScript\createJsonData.js '.\Vidoes\<category>\...\<topic>.json' '<topic>' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
 ```
 
 
 ### 6. עדכנו את קובץ ה-README של הקטגוריה
 הריצו את הסקריפט: 
-`createOrUpdateReadme.js`
+להרצה עם JavaScipt יש להריץ  - `createOrUpdateReadme.js`
+ללהרצה עם python יש להריץ  - `create_or_update_readme.py` 
+
+
 שלחו את הערכים הבאים: (בסדר הזה)
 
 1. נתיב קובץ ה-JSON שממנו יש להמיר את התוכן
 2. הנתיב לקובץ Markdown שיווצר/יעודכן (כולל שם קובץ .md)
 
-דוגמא להרצה:
+דוגמא להרצה עם JavaScript:
 
 
 ```
-node .\Scripts\<JavaScript or Python>\createOrUpdateReadme.js '.\Vidoes\<category>\...\<topic>.json' '.\Vidoes\<category>\...\<topic>_README.md'
+node .\Scripts\JavaScript\createOrUpdateReadme.js '.\Vidoes\<category>\...\<topic>.json' '.\Vidoes\<category>\...\<topic>_README.md'
 ```
 
 📌 ודאו ששמות הקבצים תואמים לשם התיקייה שבה הם מאוחסנים.
