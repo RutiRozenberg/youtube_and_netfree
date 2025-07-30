@@ -14,7 +14,7 @@ const notes = process.argv[9];
 const tableJsonDate = getTableJsonData(pageTitle, name, author, durationOrNumberOfParts, language, link, notes);
 
 const createJsonFile = (jsonFilePath, jsonData) => {
-    const jsonFilename = path.join(__dirname, `../${jsonFilePath}`);
+    const jsonFilename = path.join(__dirname, `../../${jsonFilePath}`);
 
     fs.writeFile(jsonFilename, JSON.stringify(jsonData, null, 4), (err) => {
         if (err) {

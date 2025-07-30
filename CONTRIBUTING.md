@@ -64,7 +64,7 @@
 דוגמא להרצה:
 
 ```
-node .\Scripts\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
+node .\Scripts\<JavaScript or Python>\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
 ```
 
 <h4 dir="rtl"> 🆕 להוספת קטגוריה חדשה עם קישור:</h4>
@@ -86,7 +86,7 @@ node .\Scripts\addLinkData.js '.\Vidoes\<category>\...\<topic>.json' '<name>' '<
 דוגמא להרצה:
 
 ```
-node .\Scripts\createJsonData.js '.\Vidoes\<category>\...\<topic>.json' '<topic>' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
+node .\Scripts\<JavaScript or Python>\createJsonData.js '.\Vidoes\<category>\...\<topic>.json' '<topic>' '<name>' '<author>' '<duration>' '<language>' '<URL>' '<notes>'
 ```
 
 
@@ -102,7 +102,7 @@ node .\Scripts\createJsonData.js '.\Vidoes\<category>\...\<topic>.json' '<topic>
 
 
 ```
-node .\Scripts\createOrUpdateReadme.js '.\Vidoes\<category>\...\<topic>.json' '.\Vidoes\<category>\...\<topic>_README.md'
+node .\Scripts\<JavaScript or Python>\createOrUpdateReadme.js '.\Vidoes\<category>\...\<topic>.json' '.\Vidoes\<category>\...\<topic>_README.md'
 ```
 
 📌 ודאו ששמות הקבצים תואמים לשם התיקייה שבה הם מאוחסנים.

@@ -25,7 +25,7 @@ const writeUpdateDataToJsonFile = (jsonFilename, jsonData) => {
 
 const addLinkData = (jsonLinkData) =>{
     
-    const jsonFilename = path.join(__dirname, `../${jsonFilePath}`);
+    const jsonFilename = path.join(__dirname, `../../${jsonFilePath}`);
 
     fs.readFile(jsonFilename, 'utf8', (err, data) => {
         
