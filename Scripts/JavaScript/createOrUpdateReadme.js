@@ -38,7 +38,7 @@ const template = `<div dir="rtl">
 </div>`;
 
 const createReadme = (readmePath, template) => {
-    const readmeFilename = path.join(__dirname, `../${readmePath}`);
+    const readmeFilename = path.join(__dirname, `../../${readmePath}`);
     
     fs.writeFile(readmeFilename, template, (err) => {
         if (err) {
